@@ -49,7 +49,6 @@ const App = () => {
       <CarList />
       <Testimonial />
       <AppStoreBanner />
-      <Contact />
       <Footer />
     </div>
   );
